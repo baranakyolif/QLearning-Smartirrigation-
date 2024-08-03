@@ -19,3 +19,26 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+This Q-learning algorithm is developed for an artificial intelligence application called Ecollama. This algorithm is designed to be used for data analysis and modelling purposes. The results provided by the algorithm may vary depending on the data set, model parameters and application conditions.
+
+Usage and Risks:
+
+Accuracy and Reliability:
+
+The accuracy and reliability of the results provided by the algorithm depend on data quality and model settings. Users cannot guarantee that the results provided by the algorithm will be absolutely accurate.
+Liability:
+
+The use of this algorithm is at the users' own risk. [name of your project] and the developers cannot be held liable for any damage or loss arising from actions to be taken in line with the results or decisions obtained with the algorithm.
+Data Privacy and Security:
+
+Users should take care to protect personal or sensitive data when using the algorithm. It should be ensured that the necessary security measures are taken before the outputs or internal data of the algorithm are shared with third parties.
+Development and Support:
+
+The algorithm is provided in its current form and there is no guarantee of continued support or updates. Users can share their requests for the development or updating of the algorithm with [project officer].
+Application Areas:
+
+The algorithm may not yield the expected results when used in situations other than the specified application areas. Users should test the suitability of the algorithm for specific application areas with their own judgement. This algorithm may not be used in any illegal application and its creator cannot be held responsible.
+This statement contains important warnings and restrictions on the use of the 
